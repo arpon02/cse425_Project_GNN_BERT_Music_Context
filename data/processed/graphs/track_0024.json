@@ -1,0 +1,156 @@
+{
+  "track_id": "track_0024",
+  "num_nodes": 6,
+  "num_edges": 20,
+  "nodes": [
+    {
+      "id": 0,
+      "start_sec": 0.0,
+      "end_sec": 5.0
+    },
+    {
+      "id": 1,
+      "start_sec": 2.5,
+      "end_sec": 7.5
+    },
+    {
+      "id": 2,
+      "start_sec": 5.0,
+      "end_sec": 10.0
+    },
+    {
+      "id": 3,
+      "start_sec": 7.5,
+      "end_sec": 12.5
+    },
+    {
+      "id": 4,
+      "start_sec": 10.0,
+      "end_sec": 15.0
+    },
+    {
+      "id": 5,
+      "start_sec": 12.5,
+      "end_sec": 17.5
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 1,
+      "weight": -0.0025
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "weight": -0.0025
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "weight": 0.0639
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "weight": 0.0639
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "weight": 0.0033
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "weight": 0.0033
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "weight": 0.0353
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "weight": 0.0353
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "weight": 0.072
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "weight": 0.072
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "weight": 0.9798
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "weight": 0.9798
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "weight": 0.9953
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "weight": 0.9953
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "weight": 1.0
+    },
+    {
+      "source": 1,
+      "target": 1,
+      "weight": 1.0
+    },
+    {
+      "source": 2,
+      "target": 2,
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 3,
+      "weight": 1.0
+    },
+    {
+      "source": 4,
+      "target": 4,
+      "weight": 1.0
+    },
+    {
+      "source": 5,
+      "target": 5,
+      "weight": 1.0
+    }
+  ],
+  "coherence_score": 0.2857,
+  "labels": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "emotion": [
+    6.599999904632568,
+    3.700000047683716
+  ]
+}

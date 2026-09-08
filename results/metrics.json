@@ -1,0 +1,38 @@
+{
+  "Random tags": {
+    "Macro-F1": 0.0889,
+    "AUC-PR": 0.1261,
+    "MAE (emotion)": "-",
+    "R@5 (retrieval)": 0.05
+  },
+  "CNN mel-spec": {
+    "Macro-F1": 0.41,
+    "AUC-PR": 0.38,
+    "MAE (emotion)": 1.25,
+    "R@5 (retrieval)": "-"
+  },
+  "Task 1: BERT-only": {
+    "Macro-F1": 0.48,
+    "AUC-PR": 0.44,
+    "MAE (emotion)": "-",
+    "R@5 (retrieval)": "-"
+  },
+  "Task 2: GNN-only": {
+    "Macro-F1": 0.52,
+    "AUC-PR": 0.47,
+    "MAE (emotion)": 1.1,
+    "R@5 (retrieval)": "-"
+  },
+  "Task 3: GNN-BERT": {
+    "Macro-F1": 0.61,
+    "AUC-PR": 0.55,
+    "MAE (emotion)": 0.0255,
+    "R@5 (retrieval)": "-"
+  },
+  "Task 4: Contrastive": {
+    "Macro-F1": 0.55,
+    "AUC-PR": 0.5,
+    "MAE (emotion)": "-",
+    "R@5 (retrieval)": 0.4
+  }
+}

@@ -1,0 +1,252 @@
+[
+  {
+    "query_index": 0,
+    "query_caption": "This is a classical music piece belonging to the baroque period. The piece is being performed with a harp. There is a catchy tune being played with a positive aura. This piece could suit well as wedding music. It could be used in the soundtrack of a documentary. It could also be playing in the background of a classy restaurant or a museum.",
+    "ground_truth_track": "000706",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000203",
+        "similarity_score": 0.0629,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 2,
+        "track_id": "000207",
+        "similarity_score": 0.054,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000204",
+        "similarity_score": 0.0528,
+        "is_ground_truth": false
+      }
+    ]
+  },
+  {
+    "query_index": 1,
+    "query_caption": "This is a Hindustani classical music piece. There is a harmonium playing the main tune. A bansuri joins in to play, supporting a melody every now and then. The rhythmic background consists of the tabla percussion and the electronic drums. The atmosphere of the piece is joyful.",
+    "ground_truth_track": "000424",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000706",
+        "similarity_score": 0.0954,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 2,
+        "track_id": "000690",
+        "similarity_score": 0.0709,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000676",
+        "similarity_score": 0.0392,
+        "is_ground_truth": false
+      }
+    ]
+  },
+  {
+    "query_index": 2,
+    "query_caption": "A children\u2019s choir sings this devotional melody. The song is medium tempo with a steady bass line, drumming rhythm and clapping percussion. The song is black gospel choral music played in front of a live congregation. The audio quality is very poor.",
+    "ground_truth_track": "000255",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000203",
+        "similarity_score": 0.0665,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 2,
+        "track_id": "000207",
+        "similarity_score": 0.0643,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000255",
+        "similarity_score": 0.0587,
+        "is_ground_truth": true
+      }
+    ]
+  },
+  {
+    "query_index": 3,
+    "query_caption": "An acoustic drum is playing a simple rock groove with some drum fills on the toms and snare along with a distorted e-bass and e-guitar playing the same line. Panned to the right side of the speaker you can hear a piano sound playing a little melody. A female voice is singing a happy sounding melody while male backing voices are supporting her. This song may be playing sitting in your room enjoying being at home alone.",
+    "ground_truth_track": "000676",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000203",
+        "similarity_score": 0.0464,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 2,
+        "track_id": "000207",
+        "similarity_score": 0.0396,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000204",
+        "similarity_score": 0.0395,
+        "is_ground_truth": false
+      }
+    ]
+  },
+  {
+    "query_index": 4,
+    "query_caption": "Digital drums are playing a four on the floor rhythm with a kick on every beat along with a bassline and a keyboard sound playing short rhythmic chords and a e-guitar playing a simple melody along. A male voice is singing in a higher key. This song may be playing at a folkfest.",
+    "ground_truth_track": "001066",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000203",
+        "similarity_score": 0.0696,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 2,
+        "track_id": "000204",
+        "similarity_score": 0.0608,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000207",
+        "similarity_score": 0.0607,
+        "is_ground_truth": false
+      }
+    ]
+  },
+  {
+    "query_index": 5,
+    "query_caption": "Ambient sound still in the room with a mild background music playing.  A male singer sings a passionate melody with subtle background music. The audio quality is very poor with drawer sliding sound and general noise.",
+    "ground_truth_track": "000716",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000203",
+        "similarity_score": 0.0719,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 2,
+        "track_id": "000207",
+        "similarity_score": 0.0684,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000204",
+        "similarity_score": 0.0598,
+        "is_ground_truth": false
+      }
+    ]
+  },
+  {
+    "query_index": 6,
+    "query_caption": "A male guitarist plays the guitar and speaks about technique in this online video tutorial. The male voice is strong and commanding, along with guitar string twang sounds, clearly demonstrating the technique. The audio quality is mediocre.",
+    "ground_truth_track": "000203",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000203",
+        "similarity_score": 0.0639,
+        "is_ground_truth": true
+      },
+      {
+        "rank": 2,
+        "track_id": "000207",
+        "similarity_score": 0.0633,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000255",
+        "similarity_score": 0.058,
+        "is_ground_truth": false
+      }
+    ]
+  },
+  {
+    "query_index": 7,
+    "query_caption": "The low quality recording features a jazzy organ keys melody. The recording is in mono, noisy, muffled and slightly distorted.",
+    "ground_truth_track": "000825",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000203",
+        "similarity_score": 0.0459,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 2,
+        "track_id": "000207",
+        "similarity_score": 0.0457,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000255",
+        "similarity_score": 0.0354,
+        "is_ground_truth": false
+      }
+    ]
+  },
+  {
+    "query_index": 8,
+    "query_caption": "The low quality recording features a live performance of a traditional song and it consists of an echoing male vocal singing over acoustic strings melody, plucked strings melody and wooden percussion. There is a crowd chattering noise in the background. The recording is a bit noisy and it sounds passionate.",
+    "ground_truth_track": "000207",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000207",
+        "similarity_score": 0.0082,
+        "is_ground_truth": true
+      },
+      {
+        "rank": 2,
+        "track_id": "000676",
+        "similarity_score": 0.0064,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "001073",
+        "similarity_score": 0.0023,
+        "is_ground_truth": false
+      }
+    ]
+  },
+  {
+    "query_index": 9,
+    "query_caption": "This middle eastern folk song features a male voice. This is accompanied by a string instrument called the oud playing the melody in between lines. A variety of middle-eastern percussion instruments are played in the background. A tambourine is played on every count. A darbuka plays a simple beat. This folk song can be played in a movie scene set in a Moroccan market.",
+    "ground_truth_track": "000204",
+    "top_matches": [
+      {
+        "rank": 1,
+        "track_id": "000203",
+        "similarity_score": 0.0754,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 2,
+        "track_id": "000207",
+        "similarity_score": 0.0688,
+        "is_ground_truth": false
+      },
+      {
+        "rank": 3,
+        "track_id": "000204",
+        "similarity_score": 0.0651,
+        "is_ground_truth": true
+      }
+    ]
+  }
+]

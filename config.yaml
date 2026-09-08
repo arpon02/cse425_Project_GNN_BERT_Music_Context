@@ -1,0 +1,64 @@
+# Configuration for GNN-BERT Music Context Understanding
+# CSE425 / EEE474 / CSE715 Supervised Neural Network Project
+
+audio:
+  sample_rate: 22050
+  n_fft: 2048
+  hop_length: 512
+  n_mels: 128
+  n_chroma: 12
+  n_mfcc: 20
+  segment_duration: 5.0 # seconds per segment
+  segment_hop: 2.5      # 50% overlap window
+  normalize: true
+
+graph:
+  similarity_threshold: 0.7  # tau for edge creation (cos_sim > tau)
+  connect_temporal_neighbors: true
+  directed: false
+  node_feature_dim: 140      # 128 log-mel mean + 12 chroma mean
+
+text:
+  model_name: "distilbert-base-uncased"
+  max_length: 128
+  freeze_backbone: false
+
+models:
+  gnn:
+    architecture: "GraphSAGE" # "GraphSAGE" or "GAT"
+    num_layers: 2
+    hidden_dim: 128
+    dropout: 0.2
+    pooling: "mean"
+  cnn_baseline:
+    channels: [32, 64, 128]
+    fc_dim: 128
+    dropout: 0.3
+  fusion:
+    mechanism: "cross_attention" # "cross_attention" or "early_concat"
+    cross_attn_dim: 128
+    num_heads: 4
+    fc_dim: 128
+    dropout: 0.2
+  contrastive:
+    projection_dim: 128
+    temperature: 0.07
+
+training:
+  batch_size: 16
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+  epochs: 10
+  alpha_valence: 0.5   # weight for valence MSE
+  beta_arousal: 0.5    # weight for arousal MSE
+  seed: 42
+  device: "cuda"
+
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  graphs_dir: "data/processed/graphs"
+  splits_dir: "data/splits"
+  results_dir: "results"
+  plots_dir: "results/plots"
+  retrieval_dir: "results/retrieval_examples"

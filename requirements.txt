@@ -1,0 +1,20 @@
+# Python dependencies for GNN-BERT Music Context Understanding
+# Compatible with Python 3.10 and PyTorch 2.1+cu121
+
+numpy>=1.24.0,<2.0.0
+torch>=2.1.0
+torchaudio>=2.1.0
+torch_geometric>=2.5.0
+transformers>=4.36.0
+tokenizers>=0.15.0
+librosa>=0.10.0
+soundfile>=0.12.1
+scikit-learn>=1.2.0
+scipy>=1.10.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pyyaml>=6.0
+tqdm>=4.65.0
+ipykernel>=6.20.0
+notebook>=7.0.0

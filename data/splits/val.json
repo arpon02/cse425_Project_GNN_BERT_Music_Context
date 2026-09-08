@@ -1,0 +1,362 @@
+[
+  {
+    "track_id": "000709",
+    "audio_path": "data/raw\\fma_small\\000\\000709.mp3",
+    "mel_path": "data/processed/mel\\000709_mel.npy",
+    "genre": "international",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "You can hear two people playing various percussive instruments. One is holding the same beat playing on congas while the other is playing a solo changing rhythms and percussive sounds in a complex manner. This song may be playing live demonstrating a solo run.",
+    "text": "You can hear two people playing various percussive instruments. One is holding the same beat playing on congas while the other is playing a solo changing rhythms and percussive sounds in a complex manner. This song may be playing live demonstrating a solo run."
+  },
+  {
+    "track_id": "001417",
+    "audio_path": "data/raw\\fma_small\\001\\001417.mp3",
+    "mel_path": "data/processed/mel\\001417_mel.npy",
+    "genre": "rock",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The low quality recording features a folk song that consists of a wooden percussion, groovy bass, breathy flute melody, groovy piano melody, shimmering shakers and sustained strings melody. It sounds passionate, joyful and happy.",
+    "text": "The low quality recording features a folk song that consists of a wooden percussion, groovy bass, breathy flute melody, groovy piano melody, shimmering shakers and sustained strings melody. It sounds passionate, joyful and happy."
+  },
+  {
+    "track_id": "001075",
+    "audio_path": "data/raw\\fma_small\\001\\001075.mp3",
+    "mel_path": "data/processed/mel\\001075_mel.npy",
+    "genre": "experimental",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This song is a vigorous metal instrumental. The tempo is fast with intense drumming,  fiery electric guitar riff, amplified guitar rhythms and energetic keyboard accompaniment. The music is energetic, aggressive, youthful, spirited, goth, intense,psychedelic and trance like. This instrumental is Hard Rock/Metal.",
+    "text": "This song is a vigorous metal instrumental. The tempo is fast with intense drumming,  fiery electric guitar riff, amplified guitar rhythms and energetic keyboard accompaniment. The music is energetic, aggressive, youthful, spirited, goth, intense,psychedelic and trance like. This instrumental is Hard Rock/Metal."
+  },
+  {
+    "track_id": "000667",
+    "audio_path": "data/raw\\fma_small\\000\\000667.mp3",
+    "mel_path": "data/processed/mel\\000667_mel.npy",
+    "genre": "international",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This audio clip features the sound produced at a particular frequency by a Tibetan singing bowl. This produces a continuous ringing sound. Toward the end of the clip, some other animal sounds can be heard. There are no other instruments in this song. This song can be played at a meditation center.",
+    "text": "This audio clip features the sound produced at a particular frequency by a Tibetan singing bowl. This produces a continuous ringing sound. Toward the end of the clip, some other animal sounds can be heard. There are no other instruments in this song. This song can be played at a meditation center."
+  },
+  {
+    "track_id": "000620",
+    "audio_path": "data/raw\\fma_small\\000\\000620.mp3",
+    "mel_path": "data/processed/mel\\000620_mel.npy",
+    "genre": "folk",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This is a punk rock music piece. There are male vocals singing in a grunt-like manner. The melody is being played by an electric guitar while a bass guitar plays in the background. The rhythm consists of a slightly fast-paced rock acoustic drum beat. The piece has an aggressive atmosphere. It could be used in the soundtrack of an action-filled video game.",
+    "text": "This is a punk rock music piece. There are male vocals singing in a grunt-like manner. The melody is being played by an electric guitar while a bass guitar plays in the background. The rhythm consists of a slightly fast-paced rock acoustic drum beat. The piece has an aggressive atmosphere. It could be used in the soundtrack of an action-filled video game."
+  },
+  {
+    "track_id": "000993",
+    "audio_path": "data/raw\\fma_small\\000\\000993.mp3",
+    "mel_path": "data/processed/mel\\000993_mel.npy",
+    "genre": "rock",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This slow jazz song features male voices singing the main melody in harmony. This is accompanied by percussion playing a simple beat. The double bass plays the root notes of the chords. Trumpets play a fill in harmony in between lines. A piano plays an arpeggiated chord at the end of the first line. This song has a romantic mood. This song can be played in a classic romantic movie.",
+    "text": "This slow jazz song features male voices singing the main melody in harmony. This is accompanied by percussion playing a simple beat. The double bass plays the root notes of the chords. Trumpets play a fill in harmony in between lines. A piano plays an arpeggiated chord at the end of the first line. This song has a romantic mood. This song can be played in a classic romantic movie."
+  },
+  {
+    "track_id": "001196",
+    "audio_path": "data/raw\\fma_small\\001\\001196.mp3",
+    "mel_path": "data/processed/mel\\001196_mel.npy",
+    "genre": "folk",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The Low quality recording features an upbeat instrumental playing in the background on some kind of speaker, while a loud marimba melody is played over it. It kind of sounds off beat, also the sound is mostly located in the left channel of the stereo image, which makes the recording imbalanced and low in quality.",
+    "text": "The Low quality recording features an upbeat instrumental playing in the background on some kind of speaker, while a loud marimba melody is played over it. It kind of sounds off beat, also the sound is mostly located in the left channel of the stereo image, which makes the recording imbalanced and low in quality."
+  },
+  {
+    "track_id": "001642",
+    "audio_path": "data/raw\\fma_small\\001\\001642.mp3",
+    "mel_path": "data/processed/mel\\001642_mel.npy",
+    "genre": "pop",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The kick is playing on every beat along with a fast paced high hat and a snare sound. The digital bass is adding some spice and sounds overdriven. Pad sounds can be heard in the background while a synth lead sound is playing a simple repetitive melody. A male voice is rapping/singing. A lot of backing vocals with delay are adding energy to the mix. This song may be playing in a car.",
+    "text": "The kick is playing on every beat along with a fast paced high hat and a snare sound. The digital bass is adding some spice and sounds overdriven. Pad sounds can be heard in the background while a synth lead sound is playing a simple repetitive melody. A male voice is rapping/singing. A lot of backing vocals with delay are adding energy to the mix. This song may be playing in a car."
+  },
+  {
+    "track_id": "001683",
+    "audio_path": "data/raw\\fma_small\\001\\001683.mp3",
+    "mel_path": "data/processed/mel\\001683_mel.npy",
+    "genre": "international",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "An acoustic drum set is playing a 16th note rhythm using the edge of his snare and a hihat sound opening and closing. A banjo is playing a fast melody along with a violin/viola playing the same melody. An upright bass is playing a walking bassline. This song may be playing in a funny tv-show.",
+    "text": "An acoustic drum set is playing a 16th note rhythm using the edge of his snare and a hihat sound opening and closing. A banjo is playing a fast melody along with a violin/viola playing the same melody. An upright bass is playing a walking bassline. This song may be playing in a funny tv-show."
+  },
+  {
+    "track_id": "000853",
+    "audio_path": "data/raw\\fma_small\\000\\000853.mp3",
+    "mel_path": "data/processed/mel\\000853_mel.npy",
+    "genre": "international",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The low quality recording features a low windpipe vocal sound played in nature, surrounded by flowing water and chirping birds sound effects. Sounds a bit harsh and loud, as the tone of the windpipe is constantly changing.",
+    "text": "The low quality recording features a low windpipe vocal sound played in nature, surrounded by flowing water and chirping birds sound effects. Sounds a bit harsh and loud, as the tone of the windpipe is constantly changing."
+  },
+  {
+    "track_id": "000777",
+    "audio_path": "data/raw\\fma_small\\000\\000777.mp3",
+    "mel_path": "data/processed/mel\\000777_mel.npy",
+    "genre": "rock",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The low quality recording features a live performance of a R&B song that consists of a mellow piano melody and an emotional female vocal singing over it. There are some noises in the recording, alongside lip smack noise.",
+    "text": "The low quality recording features a live performance of a R&B song that consists of a mellow piano melody and an emotional female vocal singing over it. There are some noises in the recording, alongside lip smack noise."
+  },
+  {
+    "track_id": "000182",
+    "audio_path": "data/raw\\fma_small\\000\\000182.mp3",
+    "mel_path": "data/processed/mel\\000182_mel.npy",
+    "genre": "rock",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "A male singer sings this groovy melody. The song is a techno dance song with a groovy bass line, strong drumming rhythm and a keyboard accompaniment. The song is so groovy and serves as a dance track for the dancing children. The audio quality is very poor with high gains and hissing noise.",
+    "text": "A male singer sings this groovy melody. The song is a techno dance song with a groovy bass line, strong drumming rhythm and a keyboard accompaniment. The song is so groovy and serves as a dance track for the dancing children. The audio quality is very poor with high gains and hissing noise."
+  },
+  {
+    "track_id": "001649",
+    "audio_path": "data/raw\\fma_small\\001\\001649.mp3",
+    "mel_path": "data/processed/mel\\001649_mel.npy",
+    "genre": "pop",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This song features a female voice singing in opera style using only vocables and no words. This is accompanied by violins playing eighth note patterns that change according to the chords being played. The bass follows the root notes of the chords. A muted guitar or string instrument plays arpeggiated chords. This song can be played in a fantasy game.",
+    "text": "This song features a female voice singing in opera style using only vocables and no words. This is accompanied by violins playing eighth note patterns that change according to the chords being played. The bass follows the root notes of the chords. A muted guitar or string instrument plays arpeggiated chords. This song can be played in a fantasy game."
+  },
+  {
+    "track_id": "000200",
+    "audio_path": "data/raw\\fma_small\\000\\000200.mp3",
+    "mel_path": "data/processed/mel\\000200_mel.npy",
+    "genre": "folk",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This folk song features a male voice singing the main melody in an emotional mood. This is accompanied by an accordion playing fills in the background. A violin plays a droning melody. There is no percussion in this song. This song can be played at a Central Asian classical concert.",
+    "text": "This folk song features a male voice singing the main melody in an emotional mood. This is accompanied by an accordion playing fills in the background. A violin plays a droning melody. There is no percussion in this song. This song can be played at a Central Asian classical concert."
+  },
+  {
+    "track_id": "001482",
+    "audio_path": "data/raw\\fma_small\\001\\001482.mp3",
+    "mel_path": "data/processed/mel\\001482_mel.npy",
+    "genre": "electronic",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This is a video game theme. There is a cinematic string sound playing the melody while the wind sound effect implies there is a snowstorm. A male choir starts singing alongside orchestral percussive elements. There is an epic atmosphere. This piece could fit well in the soundtrack of a thriller video game where there is a face-off about to happen.",
+    "text": "This is a video game theme. There is a cinematic string sound playing the melody while the wind sound effect implies there is a snowstorm. A male choir starts singing alongside orchestral percussive elements. There is an epic atmosphere. This piece could fit well in the soundtrack of a thriller video game where there is a face-off about to happen."
+  }
+]

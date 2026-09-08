@@ -1,0 +1,65 @@
+# ==========================================
+# Byte-compiled / optimized / ambient files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Virtual environments
+# ==========================================
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Jupyter Notebook checkpoints
+# ==========================================
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ==========================================
+# Large Raw Datasets 
+# ==========================================
+data/raw/
+data/raw/*
+*.zip
+*.tar
+*.tar.gz
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# ==========================================
+# Cached Preprocessed Spectrograms (.npy)
+# ==========================================
+data/processed/mel/
+data/processed/mel/*
+*.npy
+
+# ==========================================
+# PyTorch Model Checkpoints
+# ==========================================
+checkpoints/
+*.ckpt
+
+# ==========================================
+# Keep Preprocessed Graphs & Splits 
+# ==========================================
+!data/processed/graphs/*.json
+!data/processed/graphs/*.pt
+!data/splits/*.json
+
+# ==========================================
+# Operating System & IDE Files
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

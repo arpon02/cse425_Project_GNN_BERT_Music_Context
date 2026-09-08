@@ -1,0 +1,362 @@
+[
+  {
+    "track_id": "000706",
+    "audio_path": "data/raw\\fma_small\\000\\000706.mp3",
+    "mel_path": "data/processed/mel\\000706_mel.npy",
+    "genre": "international",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This is a classical music piece belonging to the baroque period. The piece is being performed with a harp. There is a catchy tune being played with a positive aura. This piece could suit well as wedding music. It could be used in the soundtrack of a documentary. It could also be playing in the background of a classy restaurant or a museum.",
+    "text": "This is a classical music piece belonging to the baroque period. The piece is being performed with a harp. There is a catchy tune being played with a positive aura. This piece could suit well as wedding music. It could be used in the soundtrack of a documentary. It could also be playing in the background of a classy restaurant or a museum."
+  },
+  {
+    "track_id": "000424",
+    "audio_path": "data/raw\\fma_small\\000\\000424.mp3",
+    "mel_path": "data/processed/mel\\000424_mel.npy",
+    "genre": "experimental",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This is a Hindustani classical music piece. There is a harmonium playing the main tune. A bansuri joins in to play, supporting a melody every now and then. The rhythmic background consists of the tabla percussion and the electronic drums. The atmosphere of the piece is joyful.",
+    "text": "This is a Hindustani classical music piece. There is a harmonium playing the main tune. A bansuri joins in to play, supporting a melody every now and then. The rhythmic background consists of the tabla percussion and the electronic drums. The atmosphere of the piece is joyful."
+  },
+  {
+    "track_id": "000255",
+    "audio_path": "data/raw\\fma_small\\000\\000255.mp3",
+    "mel_path": "data/processed/mel\\000255_mel.npy",
+    "genre": "rock",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "A children\u2019s choir sings this devotional melody. The song is medium tempo with a steady bass line, drumming rhythm and clapping percussion. The song is black gospel choral music played in front of a live congregation. The audio quality is very poor.",
+    "text": "A children\u2019s choir sings this devotional melody. The song is medium tempo with a steady bass line, drumming rhythm and clapping percussion. The song is black gospel choral music played in front of a live congregation. The audio quality is very poor."
+  },
+  {
+    "track_id": "000676",
+    "audio_path": "data/raw\\fma_small\\000\\000676.mp3",
+    "mel_path": "data/processed/mel\\000676_mel.npy",
+    "genre": "hip-hop",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "An acoustic drum is playing a simple rock groove with some drum fills on the toms and snare along with a distorted e-bass and e-guitar playing the same line. Panned to the right side of the speaker you can hear a piano sound playing a little melody. A female voice is singing a happy sounding melody while male backing voices are supporting her. This song may be playing sitting in your room enjoying being at home alone.",
+    "text": "An acoustic drum is playing a simple rock groove with some drum fills on the toms and snare along with a distorted e-bass and e-guitar playing the same line. Panned to the right side of the speaker you can hear a piano sound playing a little melody. A female voice is singing a happy sounding melody while male backing voices are supporting her. This song may be playing sitting in your room enjoying being at home alone."
+  },
+  {
+    "track_id": "001066",
+    "audio_path": "data/raw\\fma_small\\001\\001066.mp3",
+    "mel_path": "data/processed/mel\\001066_mel.npy",
+    "genre": "experimental",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "Digital drums are playing a four on the floor rhythm with a kick on every beat along with a bassline and a keyboard sound playing short rhythmic chords and a e-guitar playing a simple melody along. A male voice is singing in a higher key. This song may be playing at a folkfest.",
+    "text": "Digital drums are playing a four on the floor rhythm with a kick on every beat along with a bassline and a keyboard sound playing short rhythmic chords and a e-guitar playing a simple melody along. A male voice is singing in a higher key. This song may be playing at a folkfest."
+  },
+  {
+    "track_id": "000716",
+    "audio_path": "data/raw\\fma_small\\000\\000716.mp3",
+    "mel_path": "data/processed/mel\\000716_mel.npy",
+    "genre": "folk",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "Ambient sound still in the room with a mild background music playing.  A male singer sings a passionate melody with subtle background music. The audio quality is very poor with drawer sliding sound and general noise.",
+    "text": "Ambient sound still in the room with a mild background music playing.  A male singer sings a passionate melody with subtle background music. The audio quality is very poor with drawer sliding sound and general noise."
+  },
+  {
+    "track_id": "000203",
+    "audio_path": "data/raw\\fma_small\\000\\000203.mp3",
+    "mel_path": "data/processed/mel\\000203_mel.npy",
+    "genre": "folk",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "A male guitarist plays the guitar and speaks about technique in this online video tutorial. The male voice is strong and commanding, along with guitar string twang sounds, clearly demonstrating the technique. The audio quality is mediocre.",
+    "text": "A male guitarist plays the guitar and speaks about technique in this online video tutorial. The male voice is strong and commanding, along with guitar string twang sounds, clearly demonstrating the technique. The audio quality is mediocre."
+  },
+  {
+    "track_id": "000825",
+    "audio_path": "data/raw\\fma_small\\000\\000825.mp3",
+    "mel_path": "data/processed/mel\\000825_mel.npy",
+    "genre": "rock",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The low quality recording features a jazzy organ keys melody. The recording is in mono, noisy, muffled and slightly distorted.",
+    "text": "The low quality recording features a jazzy organ keys melody. The recording is in mono, noisy, muffled and slightly distorted."
+  },
+  {
+    "track_id": "000207",
+    "audio_path": "data/raw\\fma_small\\000\\000207.mp3",
+    "mel_path": "data/processed/mel\\000207_mel.npy",
+    "genre": "folk",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The low quality recording features a live performance of a traditional song and it consists of an echoing male vocal singing over acoustic strings melody, plucked strings melody and wooden percussion. There is a crowd chattering noise in the background. The recording is a bit noisy and it sounds passionate.",
+    "text": "The low quality recording features a live performance of a traditional song and it consists of an echoing male vocal singing over acoustic strings melody, plucked strings melody and wooden percussion. There is a crowd chattering noise in the background. The recording is a bit noisy and it sounds passionate."
+  },
+  {
+    "track_id": "000204",
+    "audio_path": "data/raw\\fma_small\\000\\000204.mp3",
+    "mel_path": "data/processed/mel\\000204_mel.npy",
+    "genre": "folk",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This middle eastern folk song features a male voice. This is accompanied by a string instrument called the oud playing the melody in between lines. A variety of middle-eastern percussion instruments are played in the background. A tambourine is played on every count. A darbuka plays a simple beat. This folk song can be played in a movie scene set in a Moroccan market.",
+    "text": "This middle eastern folk song features a male voice. This is accompanied by a string instrument called the oud playing the melody in between lines. A variety of middle-eastern percussion instruments are played in the background. A tambourine is played on every count. A darbuka plays a simple beat. This folk song can be played in a movie scene set in a Moroccan market."
+  },
+  {
+    "track_id": "001073",
+    "audio_path": "data/raw\\fma_small\\001\\001073.mp3",
+    "mel_path": "data/processed/mel\\001073_mel.npy",
+    "genre": "experimental",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This is a live performance of a southern rock piece. There is an electric guitar playing a blues solo. There is a bass guitar playing in the background. The rhythm is being played by the acoustic drums. The atmosphere is groovy. This piece could be playing in the background at a rock bar.",
+    "text": "This is a live performance of a southern rock piece. There is an electric guitar playing a blues solo. There is a bass guitar playing in the background. The rhythm is being played by the acoustic drums. The atmosphere is groovy. This piece could be playing in the background at a rock bar."
+  },
+  {
+    "track_id": "000690",
+    "audio_path": "data/raw\\fma_small\\000\\000690.mp3",
+    "mel_path": "data/processed/mel\\000690_mel.npy",
+    "genre": "rock",
+    "tags": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The low quality recording features a rock song that consists of flat male vocal singing over sustained and arpeggiated electric guitar melodies, followed by snappy rimshots, soft kick, shimmering hi hats and groovy bass guitar. It sounds emotional and easygoing.",
+    "text": "The low quality recording features a rock song that consists of flat male vocal singing over sustained and arpeggiated electric guitar melodies, followed by snappy rimshots, soft kick, shimmering hi hats and groovy bass guitar. It sounds emotional and easygoing."
+  },
+  {
+    "track_id": "001069",
+    "audio_path": "data/raw\\fma_small\\001\\001069.mp3",
+    "mel_path": "data/processed/mel\\001069_mel.npy",
+    "genre": "experimental",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This is a Kurdish folk music piece. The main melody is first played by the baglama and then by the zurna. The rhythmic background consists of an electronic drum beat and supportive percussive elements. The atmosphere is lively. This piece could be used as an accompaniment piece for a folk dance course such as the halay dance.",
+    "text": "This is a Kurdish folk music piece. The main melody is first played by the baglama and then by the zurna. The rhythmic background consists of an electronic drum beat and supportive percussive elements. The atmosphere is lively. This piece could be used as an accompaniment piece for a folk dance course such as the halay dance."
+  },
+  {
+    "track_id": "001259",
+    "audio_path": "data/raw\\fma_small\\001\\001259.mp3",
+    "mel_path": "data/processed/mel\\001259_mel.npy",
+    "genre": "experimental",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "This is a comedic hip-hop music piece. There is a male vocal rapping in the lead. The melody in the beat is being played by the piano and the electric guitar while a bass guitar plays in the background. The rhythm is provided by an electronic drum beat. The piece has an amusing aura to it. It could be used in the background of funny social media content.",
+    "text": "This is a comedic hip-hop music piece. There is a male vocal rapping in the lead. The melody in the beat is being played by the piano and the electric guitar while a bass guitar plays in the background. The rhythm is provided by an electronic drum beat. The piece has an amusing aura to it. It could be used in the background of funny social media content."
+  },
+  {
+    "track_id": "000193",
+    "audio_path": "data/raw\\fma_small\\000\\000193.mp3",
+    "mel_path": "data/processed/mel\\000193_mel.npy",
+    "genre": "folk",
+    "tags": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emotion": [
+      5.0,
+      5.0
+    ],
+    "caption": "The Pop song features a soft female vocal singing over sustained pulsating synth lead, mellow piano melody, sustained synth brass, punchy kick, claps. tinny wide hi hats and high pitched female vocal melody. It sounds emotional, sad, passionate and like something you would hear on a radio.",
+    "text": "The Pop song features a soft female vocal singing over sustained pulsating synth lead, mellow piano melody, sustained synth brass, punchy kick, claps. tinny wide hi hats and high pitched female vocal melody. It sounds emotional, sad, passionate and like something you would hear on a radio."
+  }
+]
